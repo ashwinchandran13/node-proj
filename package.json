@@ -1,0 +1,23 @@
+{
+  "name": "crash",
+  "version": "1.0.0",
+  "description": "server tutorial",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwinchandran13/node-proj.git"
+  },
+  "author": "Ashwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwinchandran13/node-proj/issues"
+  },
+  "homepage": "https://github.com/ashwinchandran13/node-proj#readme"
+}
